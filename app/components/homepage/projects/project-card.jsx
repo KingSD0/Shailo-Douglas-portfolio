@@ -61,9 +61,34 @@ function ProjectCard({ project }) {
             <span className="text-cyan-400">{' ' + project.description}</span>
             <span className="text-gray-400">,</span>
           </div>
+          
           <div><span className="text-gray-400">{`};`}</span></div>
-        </code>
-      </div>
+        </code>     
+
+<div className="ml-4 lg:ml-8 mt-6 flex gap-3 flex-wrap">
+        {project.demo && (
+        <a
+        href={project.demo}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="inline-block px-4 py-2 rounded-md bg-gradient-to-r from-pink-500 to-violet-600 text-white font-semibold hover:scale-105 transition-all"
+        >
+        Visit Website
+        </a>
+        )}
+
+        {project.code && (
+        <a
+        href={project.code}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="inline-block px-4 py-2 rounded-md bg-gradient-to-r from-pink-500 to-violet-600 text-white font-semibold hover:scale-105 transition-all"        >
+        View Source
+        </a>
+        )}
+
+        </div>
+    </div>
     </div>
   );
 };

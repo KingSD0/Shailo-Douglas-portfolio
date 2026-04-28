@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "HBO-ICT (Software Engineering)",
+    duration: "2020 - 2026",
+    institution: "Windesheim University of Applied Sciences"
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "HBO-ICT Propedeuse",
+    duration: "2020 - 2022",
+    institution: "Windesheim University of Applied Sciences"
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "HAVO (Economics & Society)",
+    duration: "2018 - 2020",
+    institution: "Echnaton, Almere"
   }
 ]

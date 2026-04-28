@@ -1,20 +1,26 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
+    title: 'Software Engineering Intern',
+    company: 'Microsign Business Software B.V.',
+    duration: '(Apr 2025 - Oct 2025)'
   },
   {
     id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
+    title: 'Software Developer',
+    company: 'PSEMO Project | Windesheim',
+    duration: '(Feb 2024 - Jun 2024)'
   },
   {
     id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
+    title: 'Software Engineering Intern',
+    company: 'Fietshangar',
+    duration: '(Sep 2023 - Feb 2024)'
+  },
+  {
+    id: 4,
+    title: 'Junior Developer Intern',
+    company: 'Initial Minds',
+    duration: '(Feb 2021 - Jul 2021)'
   }
 ]

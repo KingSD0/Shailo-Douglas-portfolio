@@ -5,6 +5,7 @@ import angular from '../app/assets/svg/skills/angular.svg';
 import aws from '../app/assets/svg/skills/aws.svg';
 import azure from '../app/assets/svg/skills/azure.svg';
 import blender from '../app/assets/svg/skills/blender.svg';
+import blazor from '../app/assets/svg/skills/blazor.svg';
 import bootstrap from '../app/assets/svg/skills/bootstrap.svg';
 import bulma from '../app/assets/svg/skills/bulma.svg';
 import c from '../app/assets/svg/skills/c.svg';
@@ -45,6 +46,7 @@ import mongoDB from '../app/assets/svg/skills/mongoDB.svg';
 import mysql from '../app/assets/svg/skills/mysql.svg';
 import nextJS from '../app/assets/svg/skills/nextJS.svg';
 import nginx from '../app/assets/svg/skills/nginx.svg';
+import nodejs from '../app/assets/svg/skills/nodejs.svg';
 import numpy from '../app/assets/svg/skills/numpy.svg';
 import nuxtJS from '../app/assets/svg/skills/nuxtJS.svg';
 import opencv from '../app/assets/svg/skills/opencv.svg';
@@ -120,6 +122,8 @@ export const skillsImage = (skill) => {
       return typescript;
     case 'vue':
       return vue;
+      case 'blazor':
+ return blazor;
     case 'bootstrap':
       return bootstrap;
     case 'bulma':
@@ -194,6 +198,8 @@ export const skillsImage = (skill) => {
       return nginx;
     case 'numpy':
       return numpy;
+      case 'node js':
+      return nodejs;
     case 'opencv':
       return opencv;
     case 'premiere pro':

@@ -20,7 +20,7 @@
 
 # Portfolio Preview
 
-![Portfolio Demo](./public\image\portfolio-demo.gif)
+![Portfolio Demo](/public\image\portfolio-demo.gif)
 
 🚀 Live Demo:
 https://your-vercel-url.vercel.app

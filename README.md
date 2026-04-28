@@ -112,8 +112,8 @@ Backend / Other
 # Run Locally
 
 ```bash
-git clone https://github.com/KingSD0/Developer-portfolio.git
-cd Developer-portfolio
+git clone https://github.com/KingSD0/Shailo-Douglas-portfolio.git
+cd Shailo-Douglas-portfolio
 
 npm install
 npm run dev

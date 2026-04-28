@@ -1,6 +1,10 @@
 <h1 align="center">Shailo Douglas Portfolio</h1>
 
 <p align="center">
+  <img src="./public/image/home-screen.png" width="100%">
+</p>
+
+<p align="center">
   <strong>Full Stack Software Developer Portfolio built with Next.js and Tailwind CSS</strong>
 </p>
 
@@ -8,8 +12,6 @@
   <img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js">
   <img src="https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react">
   <img src="https://img.shields.io/badge/TailwindCSS-4-38B2AC?style=for-the-badge&logo=tailwind-css">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Blazor-blue?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -20,7 +22,7 @@
 
 # Portfolio Preview
 
-![Portfolio Demo](/public\image\portfolio-demo.gif)
+![Portfolio Demo](public/image/portfolio-demo.gif)
 
 🚀 Live Demo:
 https://your-vercel-url.vercel.app

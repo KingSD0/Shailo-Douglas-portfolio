@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-vercel-url.vercel.app"><strong>🚀 Live Demo</strong></a>
+  <a href="https://shailo-douglas-portfolio.vercel.app"><strong>🚀 Live Demo</strong></a>
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ![Portfolio Demo](public/image/portfolio-demo.gif)
 
 🚀 Live Demo:
-https://your-vercel-url.vercel.app
+https://shailo-douglas-portfolio.vercel.app
 
 ---
 

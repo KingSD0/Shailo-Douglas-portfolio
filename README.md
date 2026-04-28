@@ -20,15 +20,6 @@
 
 ---
 
-# Portfolio Preview
-
-![Portfolio Demo](public/image/portfolio-demo.gif)
-
-🚀 Live Demo:
-https://shailo-douglas-portfolio.vercel.app
-
----
-
 # About
 
 This repository contains my personal developer portfolio where I showcase projects, technical skills and software engineering experience.
